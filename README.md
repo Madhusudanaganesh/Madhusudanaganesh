@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhusudana Ganesh</h1>
+<h1 align="center">Hi 👋, I'm Madhusudana Gouda</h1>
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">
@@ -35,10 +35,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhusudanaganesh&show_icons=true&theme=radical" alt="GitHub Stats" height="192"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhusudanaganesh&theme=radical" alt="GitHub Streak" height="192"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhusudanaganesh&show_icons=true&bg_color=30,8A2387,E94057,F27121&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub Stats" height="192"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhusudanaganesh&background=E94057&ring=fff&fire=fff&currStreakNum=fff&currStreakLabel=fff&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true" alt="GitHub Streak" height="192"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudanaganesh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudanaganesh&layout=compact&bg_color=30,8A2387,E94057,F27121&title_color=fff&text_color=fff&hide_border=true" alt="Top Languages" />
 </p>
