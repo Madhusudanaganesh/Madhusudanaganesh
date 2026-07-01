@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Madhusudana Gouda</h1>
-<h3 align="center">Frontend Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Madhusudana%20Ganesh&fontSize=40&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Frontend+Developer;3%2B+Years+of+Experience;Passionate+about+UI%2FUX;Building+Scalable+Web+Apps" alt="Typing SVG" />
